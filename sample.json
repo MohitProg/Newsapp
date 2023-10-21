@@ -1,0 +1,198 @@
+{"articles" : [
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Matthew Panzarino",
+        "title": "Apple’s iPhone 15 Pro Max goes to Disneyland | TechCrunch",
+        "description": "Since 2014, I’ve been reviewing Apple’s latest iPhones at Disneyland. The rationale was, and is, simple: Instead of lab tests, do my best to get a feeling",
+        "url": "https://techcrunch.com/2023/09/19/apples-iphone-15-pro-max-goes-to-disneyland/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/1-e1695088502767.jpeg?w=1200",
+        "publishedAt": "2023-09-19T15:29:17Z",
+        "content": "Since 2014, Ive been reviewing Apples latest iPhones at Disneyland. The rationale was, and is, simple: Instead of lab tests, do my best to get a feeling for what these devices will be like to use for… [+25050 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Jason R. Rich",
+        "title": "Avoid cable clutter: The best multi-device wireless charging options for your Apple iPhone",
+        "description": "A multi-device charger is the ideal solution for eliminating Apple iPhone, AirPod and Apple Watch cable clutter.",
+        "url": "https://www.cbsnews.com/essentials/best-multi-device-wireless-charging-options-for-apple-iphone-users/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/17/a2191ada-e088-4149-b9ef-4b023c03aa50/thumbnail/1200x630/28942134d99ad5ff7d71b1e30818aaec/courant-catch-2-classics.jpg?v=673b0a428cb83539ad1e7690ae5297a1",
+        "publishedAt": "2023-09-19T15:21:00+00:00",
+        "content": "Courant\r\nIf you've ordered the new Apple iPhone 15, you're probably aware that instead of a Lightning port at the bottom of the phone, it now has an integrated USB Type-C port. While convenient for s… [+16126 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Pilar Arias",
+        "title": "13-year-old girl gets attacked at Southern California McDonald's, while bystanders pull out phones and record",
+        "description": "A Southern California teenager gets emotional when recounting an attack on her at a McDonald's after school earlier this month, with a suspect still free.",
+        "url": "https://www.foxnews.com/us/13-year-old-girl-attacked-southern-california-mcdonalds-bystanders-pull-phones-record",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/girl-beat-at-LA-mcdonalds.jpg",
+        "publishedAt": "2023-09-19T14:25:10Z",
+        "content": "A teenage girl was attacked at a Southern California McDonald's, and the brawl is circulating in viral videos after bystanders opted to record the action rather than intervene.\r\nKassidy Jones told FO… [+1780 chars]"
+    },
+    {
+        "source": {
+            "id": "engadget",
+            "name": "Engadget"
+        },
+        "author": null,
+        "title": "iPhone 15 Pro Max review: Apple makes a strong case for its biggest phone | Engadget",
+        "description": "Our review of the iPhone 15 Pro Max, including camera testing, battery life, as well as real-world use of the Action button and USB-C..",
+        "url": "https://www.engadget.com/iphone-15-pro-max-review-apple-makes-a-strong-case-for-its-biggest-phone-130018980.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/T2RRlmoScx42DtFMucvUVg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-09/ed27c860-5694-11ee-bbdd-14a6318d5801.cf.jpg",
+        "publishedAt": "2023-09-19T13:07:25.1271192Z",
+        "content": "Lets charge the iPhone 15 Pro Max before going to bed, I thought wearily after a long day at Apple Park. Even though the device, which I had just unboxed a few hours earlier, was still showing at lea… [+17448 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Allison Johnson",
+        "title": "Apple iPhone 15 Pro and Pro Max review: A17 Pro, 5x telephoto, and titanium",
+        "description": "The iPhone 15 Pro and iPhone 15 Pro Max pack a lot of small improvements, like a new USB-C port, a customizable Action Button, and a new telephoto camera.",
+        "url": "http://www.theverge.com/23879619/apple-iphone-15-pro-max-review",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/pmxJCgj-Yakq_m5eX6LOytBbGBk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931973/236794_iPhone_15_pro_pro_Max_VPavic_0017.jpg",
+        "publishedAt": "2023-09-19T13:00:00Z",
+        "content": "Apple didnt choose the USB-C life, but boy are we glad it got here anyway.\r\nByAllison Johnson, a reviewer with 10 years of experience writing about consumer tech. She has a special interest in mobile… [+25149 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Dan Seifert",
+        "title": "Apple iPhone 15 and 15 Plus review: Dynamic Island, 48 megapixels, and new colors",
+        "description": "The iPhone 15 and 15 Plus are Apple’s standard phones for 2023, and they come with many of the features found in last year’s iPhone 14 Pro at a lower price. But they aren’t exactly breaking new ground.",
+        "url": "http://www.theverge.com/23879726/apple-iphone-15-plus-review",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/Q9WjOfmVkMZT6id_2AdI77CBeSI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931298/236791_Apple_iPhone_15_and_15_Plus_review_DSeifert_0001.jpg",
+        "publishedAt": "2023-09-19T13:00:00Z",
+        "content": "Apples standard iPhone gets a lot of nice upgrades this year, but its not anything we havent seen before.\r\nByDan Seifert, an editor overseeing The Verges product reviews and service journalism progra… [+21704 chars]"
+    },
+    {
+        "source": {
+            "id": "next-big-future",
+            "name": "Next Big Future"
+        },
+        "author": "Brian Wang",
+        "title": "China Makes Huge Chip Breakthrough - 7 Nanometers Without EUV Lithography Machines | NextBigFuture.com",
+        "description": "Huawei's Kirin 9000S system-on-chip powers Huawei's new Mate 60 Pro smartphone reportedly is using 2nd generation 7nm-class fabrication process and stacking",
+        "url": "https://www.nextbigfuture.com/2023/09/china-makes-huge-chip-breakthrough-7-nanometers-with-euv-lithography-machines.html",
+        "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/09/Screen-Shot-2023-09-18-at-10.42.47-AM.jpg",
+        "publishedAt": "2023-09-18T17:55:22Z",
+        "content": "Huawei’s Kirin 9000S system-on-chip powers Huawei’s new Mate 60 Pro smartphone reportedly is using 2nd generation 7nm-class fabrication process and stacking made by China-based SMIC.\r\nHuawei was know… [+3011 chars]"
+    },
+    {
+        "source": {
+            "id": "recode",
+            "name": "Recode"
+        },
+        "author": "Sara Morrison",
+        "title": "MGM cyber attack: How a phone call may have led to the ongoing hack",
+        "description": "Are we in the middle of Ocean’s 14 or is this just another ransomware attack?",
+        "url": "https://www.vox.com/technology/2023/9/15/23875113/mgm-hack-casino-vishing-cybersecurity-ransomware",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/nt4F7j_Cx-kZ-o06ubjX70dYNk0=/0x90:8640x4614/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24924509/AP23256848600183.jpg",
+        "publishedAt": "2023-09-15T16:30:00Z",
+        "content": "Did prominent casino chain MGM Resorts gamble with its customers data? Thats a question a lot of those customers are probably asking themselves now, days into a cyberattack that took down many of MGM… [+10386 chars]"
+    },
+    {
+        "source": {
+            "id": "recode",
+            "name": "Recode"
+        },
+        "author": "Peter Kafka",
+        "title": "Apple’s iPhone 15 event didn’t reveal much about the Vision Pro headset",
+        "description": "Apple is going to sell us $3,500 headsets next year. It still hasn’t said why.",
+        "url": "https://www.vox.com/technology/2023/9/12/23870884/apple-vision-pro-missing-apple-wonderlust-iphone",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/iGFQ1crnXguK34LLKgG1SudbwQw=/0x270:6000x3411/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24916859/1496190494.jpg",
+        "publishedAt": "2023-09-12T22:40:30Z",
+        "content": "Did you watch Apples latest new product launch? Did you read about it or watch a video about it? My guess is no.\r\nThats because these things used to be a big deal at least for a certain kind of perso… [+5492 chars]"
+    },
+    {
+        "source": {
+            "id": "recode",
+            "name": "Recode"
+        },
+        "author": "Adam Clark Estes",
+        "title": "The iPhone 15 launch may show how Apple is running out of ideas",
+        "description": "Don’t upgrade your iPhone until you have to.",
+        "url": "https://www.vox.com/technology/2023/9/7/23862175/new-iphone-15-pro-do-i-need-to-upgrade",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/ac0zWdsx2bDV32lNWnWC4tP4w9o=/0x288:4000x2382/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24901831/GettyImages_455709456.jpg",
+        "publishedAt": "2023-09-07T11:30:00Z",
+        "content": "Apple will announce the newest lineup of iPhones in less than a week. The Wonderlust event on September 12 is supposed to include talk of a new USB-C port, the death of the notch, and even higher pri… [+5659 chars]"
+    },
+    {
+        "source": {
+            "id": "techradar",
+            "name": "TechRadar"
+        },
+        "author": null,
+        "title": "Phones",
+        "description": "All TechRadar pages tagged 'Phones",
+        "url": "https://www.techradar.com/phones",
+        "urlToImage": null,
+        "publishedAt": "2023-06-21T13:25:27Z",
+        "content": "Smartphones are arguably the most personal devices we own, keeping us connected at all times and acting as the heart of our tech lives. We may not spend much time actually speaking on them these days… [+828 chars]"
+    },
+    {
+        "source": {
+            "id": "the-hindu",
+            "name": "The Hindu"
+        },
+        "author": "Special Correspondent",
+        "title": "Hours after ouster as CBI chief, Alok Verma’s phone numbers made it to Pegasus list: Report",
+        "description": "“Also added to the list of numbers at the same time as Verma were two other senior CBI officials, Rakesh Asthana and A.K. Sharma...,” news portal The Wire claimed in a report.",
+        "url": "https://www.thehindu.com/news/national/hours-after-ouster-as-cbi-chief-alok-vermas-phone-numbers-made-it-to-pegasus-list-report/article35477226.ece",
+        "urlToImage": "https://www.thehindu.com/news/national/wjxhfq/article35477225.ece/ALTERNATES/LANDSCAPE_615/AlokVerma",
+        "publishedAt": "2021-07-22T17:18:05Z",
+        "content": "The Wire on Thursday reported that hours after Prime Minister Narendra Modi acted to oust Alok Verma from his post as head of the Central Bureau of Investigation (CBI) at midnight on October 23, 2018… [+1223 chars]"
+    },
+    {
+        "source": {
+            "id": "wired-de",
+            "name": "Wired.de"
+        },
+        "author": "Benedikt Sauer",
+        "title": "Samsung: Neue Smartphones bieten Oberklasse-Features für jeden",
+        "description": "Mit der Enthüllung des Galaxy A52 und A72 zeigt Samsung, dass Smartphones mit Oberklasse-Features auch zum attraktiven Preis zu haben sind.",
+        "url": "https://www.gq-magazin.de/auto-technik/article/samsung-galaxy-a-serie-mittelklasse-smartphones-mit-oberklasse-features",
+        "urlToImage": "https://res.cloudinary.com/wired-de/image/upload/t_teaser_square/v1/0/samsung-galaxy-a52-a72-neue-smartphones-technik-aufmjpg.jpg",
+        "publishedAt": "2021-03-18T07:30:00Z",
+        "content": "Wir erinnern uns: Im Januar stellte Samsung das Galaxy A32 5G vor und gab damit den Startschuss für die neue A-Serie 2021. Der Nachfolger des Galaxy A31 erfreute die Fachpresse mit 5G-Datentransfer, … [+3871 chars]"
+    },
+    {
+        "source": {
+            "id": "spiegel-online",
+            "name": "Spiegel Online"
+        },
+        "author": "Spiegel Online",
+        "title": "Machtkampf in Venezuela: Guaidó als Parlamentspräsident vereidigt",
+        "description": "Sicherheitskräfte hatten Venezuelas Oppositionsführer Juan Guaidó zunächst erneut den Zutritt zum Kongress versperrt. Dann gelangte er doch hinein und wurde als Parlamentspräsident vereidigt - bei Smartphone-Licht.",
+        "url": "http://www.spiegel.de/politik/ausland/venezuela-juan-guaido-als-parlamentspraesident-vereidigt-a-1303935.html",
+        "urlToImage": "https://cdn1.spiegel.de/images/image-1503808-860_poster_16x9-nqmm-1503808.jpg",
+        "publishedAt": "2020-01-07T18:47:39Z",
+        "content": "Dienstag, 07.01.2020  \r\n19:47 Uhr\r\nDer Machtkampf um das Parlament in Venezuela spitzt sich zu. Der selbsternannte Übergangspräsident Juan Guaidó ist zum zweiten Mal als Parlamentspräsident vereidigt… [+1696 chars]"
+    },
+    {
+        "source": {
+            "id": "mashable",
+            "name": "Mashable"
+        },
+        "author": "Sasha Lekach",
+        "title": "How to make iPhone's Screen Time actually helpful",
+        "description": "Maybe this year we'll actually spend less time staring at a phone screen.",
+        "url": "https://mashable.com/article/screen-time-ios-iphone-wwdc-2019-improve/",
+        "urlToImage": "https://mondrian.mashable.com/2019%252F05%252F29%252F2b%252Fc28429efe72d4cd6ae4e1f36a6d5bcb6.7e8a8.jpg%252F1200x630.jpg?signature=_KJ1rjuTpolkLOy9GFR88GbTg80=",
+        "publishedAt": "2019-05-29T15:00:00Z",
+        "content": "Your iPhone is keeping track, but is it enough?\r\nIt's been a year since Apple introduced a new feature to its iOS settings: \"Screen Time,\" the activity and phone use tracker. \r\nSince updating to iOS … [+5271 chars]"
+    }
+]
+}
